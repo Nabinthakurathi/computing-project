@@ -1,4 +1,0 @@
-Admin info
-
-username: storeadmin
-password: storeadmin
